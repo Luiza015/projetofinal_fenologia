@@ -1,0 +1,22 @@
+---
+title: "Relatorio_Fenologia"
+author: "Luiza Bastos"
+date: "19/03/2020"
+output: 
+html_document: default
+csl: ../citation/acta_botanica.csl
+bibliography: ../citation/AED3.bib
+---
+Introdução
+
+Um aspecto fundamental na formulação de estratégias de conservação, direcionadas principalmente às espécies ameaçadas de extinção, é estudo fenológico.É Uma ferramenta importante para a fundamentação teórico prática da conservação da biodiversidade, contribuindo para o entendimento do comportamento ecológico das espécies [@silva_leaf_2018]. A fenologia estuda a periodicidade dos processos biológicos repetitivos, associados às forças seletivas bióticas e abióticas, a sua inter-relação entre as fenofases e as medidas dentro de uma mesma ou de várias espécies [@morellato_phenology_2000]. As observações regulares das características fenológicas produzem informações sobre os eventos de natalidade, crescimento, de reprodução, de disponibilidade de recursos e de mortalidade  [@morellato_phenology_2000]. Apesar da alta diversidade de samambaias e licófitas na Floresta Atlântica [@prado_diversity_2015], existem poucos estudos fenológicos neste bioma para este grupo de plantas. Das poucas pesquisas sobre fenologia de samambaias, a maioria estudou “fetos arborescentes”, com crescimento lento e padrões fenológicos variados, perenes ou decíduos, sazonais ou não sazonais.
+
+Área de estudo e descrição da espécie
+
+Pteris congesta J. Prado (Pteridaceae) foi a espécie selecionada para este estudo. Ela foi recentemente categorizada como em perigo (EN), dentro dos critérios estabelecidos pela IUCN. Considerada endêmica do estado do Rio de Janeiro, tem distribuição nos municípios do Rio de Janeiro, Mangaratiba e Guapimirim [@prado_diversity_2015]. É caracterizada por sua fronde 3-pinada-pinatífida, com segmentos curtos, pinas e/ou margem dos segmentos denticulados-ciliados, nervura livre com o ápice da nervura se projetando como um cílio na margem e raque alada [@prado_new_1993].  
+A população selecionada para este estudo será aquela encontrada na trilha para a Pedra do Marinheiro, dentro da área de amortecimento do Parque Nacional da Tijuca, mas dentro da área do Jardim Botânico do Rio de Janeiro, na cota de 140 m, devido a maior expansão foliar e quantidade de indivíduos. Os dados serão coletados mensalmente entre fevereiro 2019 e fevereiro 2021 (24 meses), de 30 indivíduos marcados e numerados. 
+Resultados esperados
+
+Os estudos fenológicos podem mostrar que alta precipitação tem influência positiva sobre produção de folhas férteis e novas e produção de báculos. Enquanto baixa precipitação aumenta a mortalidade foliar, mostrando forte correlação entre as fenofases e as chuvas. 
+
+Refêrencia bibliográfica
